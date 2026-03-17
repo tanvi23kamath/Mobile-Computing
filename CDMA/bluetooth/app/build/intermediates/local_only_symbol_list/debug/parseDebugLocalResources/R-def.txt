@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color accentGreen
+color bgLight
+color bgMain
+color bluePrimary
+color btnBlue
+color btnRed
+color greenPrimary
+color highlightText
+color redDanger
+color textDark
+color textHint
+color textPrimary
+color white
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id BTNquit
+id FilePath
+id action_settings
+id dialoglist
+id folder
+id opendailog
+id sendBtooth
+id up
+layout activity_main
+layout dailoglayout
+menu menu_main
+mipmap ic_launcher
+string action_settings
+string app_name
+string hello_world
+style AppTheme

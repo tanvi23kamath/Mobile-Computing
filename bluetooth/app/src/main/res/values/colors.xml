@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bgMain">#0A192F</color>
+    <color name="textPrimary">#EAEAFF</color>
+    <color name="accentGreen">#22C55E</color>
+    <color name="btnBlue">#1E3A8A</color>
+    <color name="btnRed">#DC2626</color>
+    <color name="highlightText">#67E8F9</color>
+    <color name="bgLight">#F4F7FB</color>
+    <color name="bluePrimary">#1E88E5</color>
+    <color name="greenPrimary">#43A047</color>
+    <color name="redDanger">#E53935</color>
+
+    <color name="textDark">#212121</color>
+    <color name="textHint">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
+
+
+</resources>
+

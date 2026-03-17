@@ -1,0 +1,23 @@
+com.santossingh.bluetoothfiletransfer.app-jetified-lifecycle-process-2.4.1-0 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\2da3152a2fbf64916300d66bb17cad1c\workspace\transformed\jetified-lifecycle-process-2.4.1\res
+com.santossingh.bluetoothfiletransfer.app-fragment-1.3.6-1 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\3e7ded57bc5467247318bdf622adfbca\workspace\transformed\fragment-1.3.6\res
+com.santossingh.bluetoothfiletransfer.app-lifecycle-viewmodel-2.5.1-2 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\402c38e77abaac47d8cef29155427e45\workspace\transformed\lifecycle-viewmodel-2.5.1\res
+com.santossingh.bluetoothfiletransfer.app-jetified-annotation-experimental-1.3.0-3 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\44b52f01f51708403f12a154f2de6412\workspace\transformed\jetified-annotation-experimental-1.3.0\res
+com.santossingh.bluetoothfiletransfer.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-4 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\4bbabb440c297aa083d7b6cd7fe4b641\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.santossingh.bluetoothfiletransfer.app-core-1.9.0-5 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\6062dbb82a84fee03a2ed91380a314d8\workspace\transformed\core-1.9.0\res
+com.santossingh.bluetoothfiletransfer.app-jetified-emoji2-1.2.0-6 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\686bce74ef0b9d6d76fc7d098498202c\workspace\transformed\jetified-emoji2-1.2.0\res
+com.santossingh.bluetoothfiletransfer.app-jetified-core-ktx-1.9.0-7 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\6a6c57f1bb379693b975ab9e75c6daa6\workspace\transformed\jetified-core-ktx-1.9.0\res
+com.santossingh.bluetoothfiletransfer.app-appcompat-1.6.1-8 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\9c4b757cf61c876b643d97500c7c6c53\workspace\transformed\appcompat-1.6.1\res
+com.santossingh.bluetoothfiletransfer.app-jetified-appcompat-resources-1.6.1-9 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\a7a76fb13c472541e8b7994e1efb3c94\workspace\transformed\jetified-appcompat-resources-1.6.1\res
+com.santossingh.bluetoothfiletransfer.app-jetified-activity-1.6.0-10 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\afa1b25f89faedf1a643cd7438c1cf48\workspace\transformed\jetified-activity-1.6.0\res
+com.santossingh.bluetoothfiletransfer.app-jetified-startup-runtime-1.1.1-11 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\b1dfff59e7a8ededf27be3e554348a6a\workspace\transformed\jetified-startup-runtime-1.1.1\res
+com.santossingh.bluetoothfiletransfer.app-lifecycle-livedata-core-2.5.1-12 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\e342e002ed1dba767118c865b3d3c4cc\workspace\transformed\lifecycle-livedata-core-2.5.1\res
+com.santossingh.bluetoothfiletransfer.app-jetified-emoji2-views-helper-1.2.0-13 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\e87281cbf58462416cf350247aee033a\workspace\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.santossingh.bluetoothfiletransfer.app-jetified-savedstate-1.2.0-14 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\f8594c5c1c39e65135606562dfd68965\workspace\transformed\jetified-savedstate-1.2.0\res
+com.santossingh.bluetoothfiletransfer.app-lifecycle-runtime-2.5.1-15 C:\Users\tanvi\.gradle\caches\9.2.1\transforms\fb5dc524f8b8456f6aae0cc2100afd29\workspace\transformed\lifecycle-runtime-2.5.1\res
+com.santossingh.bluetoothfiletransfer.app-pngs-16 C:\Users\tanvi\Downloads\MC-Experiments-main (1)\MC-Experiments-main\exp-4\app\build\generated\res\pngs\debug
+com.santossingh.bluetoothfiletransfer.app-updated_navigation_xml-17 C:\Users\tanvi\Downloads\MC-Experiments-main (1)\MC-Experiments-main\exp-4\app\build\generated\updated_navigation_xml\debug
+com.santossingh.bluetoothfiletransfer.app-packageDebugResources-18 C:\Users\tanvi\Downloads\MC-Experiments-main (1)\MC-Experiments-main\exp-4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.santossingh.bluetoothfiletransfer.app-packageDebugResources-19 C:\Users\tanvi\Downloads\MC-Experiments-main (1)\MC-Experiments-main\exp-4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.santossingh.bluetoothfiletransfer.app-debug-20 C:\Users\tanvi\Downloads\MC-Experiments-main (1)\MC-Experiments-main\exp-4\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.santossingh.bluetoothfiletransfer.app-debug-21 C:\Users\tanvi\Downloads\MC-Experiments-main (1)\MC-Experiments-main\exp-4\app\src\debug\res
+com.santossingh.bluetoothfiletransfer.app-main-22 C:\Users\tanvi\Downloads\MC-Experiments-main (1)\MC-Experiments-main\exp-4\app\src\main\res

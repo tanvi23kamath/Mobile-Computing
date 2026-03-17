@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <color name="primary_color">#A0D683</color>
+</resources>

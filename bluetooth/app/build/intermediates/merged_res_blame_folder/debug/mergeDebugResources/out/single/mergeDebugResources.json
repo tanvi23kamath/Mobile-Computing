@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-debug-19:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-main-21:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-debug-19:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-main-21:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-debug-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-debug-19:\\layout_dailoglayout.xml.flat",
+        "source": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-main-21:\\layout\\dailoglayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-debug-19:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-main-21:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.santossingh.bluetoothfiletransfer.app-debug-19:/layout_activity_main.xml.flat",
+        "source": "com.santossingh.bluetoothfiletransfer.app-main-21:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-debug-19:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-main-21:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-debug-19:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\tanvi\\.gradle\\daemon\\9.2.1\\com.santossingh.bluetoothfiletransfer.app-main-21:\\menu\\menu_main.xml"
+    }
+]

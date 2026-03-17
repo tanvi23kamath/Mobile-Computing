@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center"
+    android:background="@color/bgLight"
+    tools:context=".MainActivity">
+
+    <!-- File Path Display -->
+    <EditText
+        android:id="@+id/FilePath"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/textHint"
+        android:padding="14dp"
+        android:layout_marginBottom="24dp"
+        android:focusable="false"/>
+
+    <!-- Select File Button -->
+    <Button
+        android:id="@+id/opendailog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="📁 Select File"
+        android:textSize="16sp"
+        android:padding="14dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/white"
+        android:background="@color/greenPrimary" />
+
+    <!-- Send via Bluetooth Button -->
+    <Button
+        android:id="@+id/sendBtooth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="📤 Send via Bluetooth"
+        android:textSize="16sp"
+        android:padding="14dp"
+        android:layout_marginBottom="24dp"
+        android:textColor="@color/white"
+        android:background="@color/bluePrimary" />
+
+    <!-- Quit Button -->
+    <Button
+        android:id="@+id/BTNquit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="exit"
+        android:text="Quit"
+        android:textSize="14sp"
+        android:padding="12dp"
+        android:background="@color/redDanger"
+        android:textColor="@color/white" />
+
+</LinearLayout>
